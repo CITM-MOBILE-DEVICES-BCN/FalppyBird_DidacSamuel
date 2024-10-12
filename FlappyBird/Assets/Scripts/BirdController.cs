@@ -8,7 +8,6 @@ public class BirdController : MonoBehaviour
     public float rotationSpeed;
     public Rigidbody2D birdRigidBody;
     
-
     // Start is called before the first frame update
     void Start()
     {
@@ -27,11 +26,11 @@ public class BirdController : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        GameManager.instance.Death();
+        GameManager.instance.facade.Death();
     }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        GameManager.instance.AddPoints();
+        GameManager.instance.facade.PipePassed();
     }
 }
