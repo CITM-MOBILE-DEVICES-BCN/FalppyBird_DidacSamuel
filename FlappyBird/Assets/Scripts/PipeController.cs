@@ -21,7 +21,11 @@ public class PipeController : MonoBehaviour
             pipeRigidbody.velocity = Vector2.left * speed;
             if (transform.position.x < -6)
             {
-                Destroy(this.gameObject);
+                gameObject.SetActive(false);
+                float positionY = Random.Range(-2.2f, 2.5f);
+                gameObject.transform.position = new Vector3(PipeInstantiator.instance.pipesPool[PipeInstantiator.instance.pipesPool.Count - 1].transform.position.x + 5, positionY, transform.position.z);
+                PipeInstantiator.instance.SetLastPipe();
+                gameObject.SetActive(true);
             }
         }
         else

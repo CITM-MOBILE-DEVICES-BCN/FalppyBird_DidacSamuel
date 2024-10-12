@@ -1,25 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\samuelm1\\Documents\\GitHub\\FlappyBird\\FlappyBird\\",
+  "WorkspaceRootPath": "C:\\Users\\didac\\Documents\\GitHub\\FalppyBird_DidacSamuel\\FlappyBird\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\Users\\samuelm1\\Documents\\GitHub\\FlappyBird\\FlappyBird\\assets\\scripts\\birdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\birdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\Users\\samuelm1\\Documents\\GitHub\\FlappyBird\\FlappyBird\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\Users\\samuelm1\\Documents\\GitHub\\FlappyBird\\FlappyBird\\assets\\scripts\\groundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|c:\\users\\samuelm1\\documents\\github\\flappybird\\flappybird\\assets\\scripts\\pipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|c:\\users\\didac\\documents\\github\\falppybird_didacsamuel\\flappybird\\assets\\scripts\\pipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|c:\\users\\samuelm1\\documents\\github\\flappybird\\flappybird\\assets\\scripts\\pipeinstantiator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|c:\\users\\didac\\documents\\github\\falppybird_didacsamuel\\flappybird\\assets\\scripts\\pipeinstantiator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pipeinstantiator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,71 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PipeInstantiator.cs",
-              "DocumentMoniker": "C:\\Users\\samuelm1\\Documents\\GitHub\\FlappyBird\\FlappyBird\\Assets\\Scripts\\PipeInstantiator.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PipeInstantiator.cs",
-              "ToolTip": "C:\\Users\\samuelm1\\Documents\\GitHub\\FlappyBird\\FlappyBird\\Assets\\Scripts\\PipeInstantiator.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PipeInstantiator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T06:53:18.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "PipeController.cs",
-              "DocumentMoniker": "C:\\Users\\samuelm1\\Documents\\GitHub\\FlappyBird\\FlappyBird\\Assets\\Scripts\\PipeController.cs",
+              "DocumentMoniker": "C:\\Users\\didac\\Documents\\GitHub\\FalppyBird_DidacSamuel\\FlappyBird\\Assets\\Scripts\\PipeController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PipeController.cs",
-              "ToolTip": "C:\\Users\\samuelm1\\Documents\\GitHub\\FlappyBird\\FlappyBird\\Assets\\Scripts\\PipeController.cs",
+              "ToolTip": "C:\\Users\\didac\\Documents\\GitHub\\FalppyBird_DidacSamuel\\FlappyBird\\Assets\\Scripts\\PipeController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PipeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T06:52:33.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GroundController.cs",
-              "DocumentMoniker": "C:\\Users\\samuelm1\\Documents\\GitHub\\FlappyBird\\FlappyBird\\Assets\\Scripts\\GroundController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GroundController.cs",
-              "ToolTip": "C:\\Users\\samuelm1\\Documents\\GitHub\\FlappyBird\\FlappyBird\\Assets\\Scripts\\GroundController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GroundController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T06:49:52.515Z",
+              "WhenOpened": "2024-10-12T10:25:00.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\samuelm1\\Documents\\GitHub\\FlappyBird\\FlappyBird\\Assets\\Scripts\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "C:\\Users\\samuelm1\\Documents\\GitHub\\FlappyBird\\FlappyBird\\Assets\\Scripts\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Title": "PipeInstantiator.cs",
+              "DocumentMoniker": "C:\\Users\\didac\\Documents\\GitHub\\FalppyBird_DidacSamuel\\FlappyBird\\Assets\\Scripts\\PipeInstantiator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PipeInstantiator.cs",
+              "ToolTip": "C:\\Users\\didac\\Documents\\GitHub\\FalppyBird_DidacSamuel\\FlappyBird\\Assets\\Scripts\\PipeInstantiator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PipeInstantiator.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowEEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T06:49:24.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BirdController.cs",
-              "DocumentMoniker": "C:\\Users\\samuelm1\\Documents\\GitHub\\FlappyBird\\FlappyBird\\Assets\\Scripts\\BirdController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BirdController.cs",
-              "ToolTip": "C:\\Users\\samuelm1\\Documents\\GitHub\\FlappyBird\\FlappyBird\\Assets\\Scripts\\BirdController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BirdController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T06:49:04.305Z",
+              "WhenOpened": "2024-10-12T10:14:19.598Z",
               "EditorCaption": ""
             }
           ]

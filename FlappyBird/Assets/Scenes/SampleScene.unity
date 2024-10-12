@@ -1681,10 +1681,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pipesPrefab: {fileID: 449395609804514612, guid: f1351253ff96619489416c1e6a199aa0,
     type: 3}
+  amountToPool: 5
+  pipesPool: []
   positionX: 5
   positionY: 0
-  timer: 0
-  instantiateCooldown: 2.5
 --- !u!4 &1364856256
 Transform:
   m_ObjectHideFlags: 0
