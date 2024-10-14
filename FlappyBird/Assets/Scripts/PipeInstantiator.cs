@@ -42,18 +42,6 @@ public class PipeInstantiator : MonoBehaviour
         
     }
 
-    public GameObject GetPipeFromPool()
-    {
-        for (int i = 0; i < amountToPool; i++)
-        {
-            if (!pipesPool[i].activeInHierarchy)
-            {
-                return pipesPool[i];
-            }
-        }
-        return null;
-    }
-
     public void SetLastPipe()
     {
         GameObject pipe = pipesPool[0];
