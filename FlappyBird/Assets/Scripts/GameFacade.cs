@@ -6,13 +6,13 @@ public class GameFacade
 {
     SoundManager soundManager;
     ScoreManager scoreManager;
-    DeathSceneManager deathSceneController;
+    DeathSceneManager deathSceneManager;
 
-    public void Init(SoundManager soundManager, DeathSceneManager deathSceneController)
+    public void Init(SoundManager soundManager, DeathSceneManager deathSceneManager)
     {
-        scoreManager = new ScoreManager();
+        scoreManager = new ScoreManager(); 
         this.soundManager = soundManager;
-        this.deathSceneController = deathSceneController;
+        this.deathSceneManager = deathSceneManager;
     }
 
     public void PipePassed()
@@ -29,7 +29,7 @@ public class GameFacade
             soundManager.PlayDeathSoundEffect();
         }
         GameManager.instance.isDead = true;
-        deathSceneController.SetActiveScene(true);
+        deathSceneManager.SetActiveScene(true);
     }
 
     public int GetScore()
